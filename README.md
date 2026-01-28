@@ -1,2 +1,2 @@
 # Cyber_Security
- conspectus about  Cyber Security (ru)
+ conspect about  Cyber Security (ru)

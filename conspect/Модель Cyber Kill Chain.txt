@@ -1,0 +1,9 @@
+Полный цикл атаки в 7 шагов:
+
+1. Reconnaissance — сбор информации
+2. Weaponization — создание оружия (malware)
+3. Delivery — доставка
+4. Exploitation — эксплуатация уязвимостей  
+5. Installation — установка бэкдора
+6. Command & Control (C2) — управление
+7. Actions on Objectives — достижение целей
